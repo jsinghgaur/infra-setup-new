@@ -16,3 +16,4 @@ module "dev-vpc" {
   private_subnet_az3_cidr = "10.10.6.0/24"
   Date_of_Creation        = "13/03/2024"
 }
+

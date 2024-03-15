@@ -284,5 +284,3 @@ resource "aws_route_table_association" "pri-rt-a3" {
   subnet_id      = aws_subnet.private_subnet_az3.id
   route_table_id = aws_route_table.pri-rt-AZ3.id
 }
-
-
